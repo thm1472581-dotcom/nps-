@@ -1,6 +1,6 @@
 #/bash/sh
 
-export VERSION=0.26.10
+export VERSION=0.26.0
 export GOPROXY=direct
 
 type -p go || { 
